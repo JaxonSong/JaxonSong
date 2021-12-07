@@ -52,7 +52,7 @@
 </p>
 
 <p align = "start">
-  <h2>GitHub streak</h2>
+  <h2>GitHub Streak</h2>
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=JaxonSong&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p>
 
