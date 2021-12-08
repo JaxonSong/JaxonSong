@@ -1,5 +1,5 @@
 - 👋 Hey guys
-- 😊 I'm **Jaxon Song**, a web front-end development engineer from Shanghai, China.
+- 😊 I'm **Jaxon Song**, a web Front-end development engineer from Shanghai, China.
 - 👀 I’m interested in coding, music and Marvel.
 - 🌱 I’m currently learning something cool.
 
